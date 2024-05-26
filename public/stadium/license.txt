@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mini Stadium
+* source:	https://sketchfab.com/3d-models/mini-stadium-800a65b9339940b58939c9c830eaeff7
+* author:	sparshgupta (https://sketchfab.com/SPARSHGUPTA)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mini Stadium" (https://sketchfab.com/3d-models/mini-stadium-800a65b9339940b58939c9c830eaeff7) by sparshgupta (https://sketchfab.com/SPARSHGUPTA) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	MD Helicopters MD-902 Explorer
+* source:	https://sketchfab.com/3d-models/md-helicopters-md-902-explorer-1d9d8148ad5c444d97f8dcc0c9e6aaaa
+* author:	iSteven (https://sketchfab.com/OneSteven)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MD Helicopters MD-902 Explorer" (https://sketchfab.com/3d-models/md-helicopters-md-902-explorer-1d9d8148ad5c444d97f8dcc0c9e6aaaa) by iSteven (https://sketchfab.com/OneSteven) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
